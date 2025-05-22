@@ -7,7 +7,7 @@ focusing on RHEL-based systems (Rocky, CentOS, RHEL proper).
 
 > "Linux isn’t hard, it’s just a lonely machine that only talks to people who learn its language."
 
-![Denji being peak Linux user](https://imgur.com/a/9TZxXit)
+![Your life after discovering linux](https://i.imgur.com/v1lpmza.jpeg)
 ---
 
 ## 📘 What’s in This Repo?
